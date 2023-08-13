@@ -1,0 +1,33 @@
+{
+  "name": "restaurant-management",
+  "version": "1.0.0",
+  "description": "react project for restaurant management",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiran12e9/restaurant-management.git"
+  },
+  "keywords": [
+    "restaurant-mangement",
+    "restaurant",
+    "react"
+  ],
+  "author": "Ravi Kiran Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiran12e9/restaurant-management/issues"
+  },
+  "homepage": "https://github.com/kiran12e9/restaurant-management#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
